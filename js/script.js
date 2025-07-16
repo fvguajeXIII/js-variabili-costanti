@@ -14,3 +14,12 @@ let nome = `Marco`;
 nome = `Luca`;
 console.log(nome);
 
+//Dichiarare una variabile chiamata "saluto" e assegnarle il valore "Ciao, come stai?". Stampare il valore della variabile sulla console.
+
+let saluto = `Ciao come stai?`
+console.log(saluto);
+
+//Dichiarare una variabile chiamata "vero" e assegnarle il valore true. Stampare il valore della variabile sulla console.
+
+let vero = true;
+console.log(vero);
