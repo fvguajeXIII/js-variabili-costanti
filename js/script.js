@@ -28,3 +28,11 @@ console.log(vero);
 
 let numeri = [1,2,3,4,5];
 console.log(numeri);
+
+//Dichiarare una variabile chiamata "persona" e assegnarle un oggetto con le seguenti proprietà: "nome" (con valore "Mario") e "età" (con valore 30). Stampare l'oggetto sulla console.
+
+let persona = {
+  nome : `Mario`,
+  eta:  30,
+}
+console.log(persona)
